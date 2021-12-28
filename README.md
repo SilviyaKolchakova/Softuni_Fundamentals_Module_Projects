@@ -1,2 +1,2 @@
 # Softuni_Projects_Fundamentals
-Programming Fundamentals with Python-May_2021
+Projects from the Programming Fundamentals with Python course-May_2021
